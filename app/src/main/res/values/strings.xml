@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JetPackNavigationApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_property">Add Property</string>
+    <string name="add_tenant">Add Tenant</string>
+</resources>
